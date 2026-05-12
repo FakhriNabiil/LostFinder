@@ -36,7 +36,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini :
 
 ### 2. Clone Repositori
 ```bash
-git clone https://github.com/abidfakhri/LOST-FInder.git
+git clone https://github.com/FakhriNabiil/LostFinder.git
 cd LOST-FInder
 ```
 
