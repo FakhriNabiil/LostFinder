@@ -1,3 +1,6 @@
+Nama : Muhamad 'Abid Fakhri Nabiil
+NIM  : 32602400022
+
 # 🔍 LostFinder - Katalog Kehilangan
 
 LostFinder adalah aplikasi web modern yang dirancang untuk membantu pengguna mengelola dan memantau informasi barang atau hewan peliharaan yang hilang. Dengan simulasi cloud menggunakan MiniStack, memakai `S3` dan `DynamoDB` service.
