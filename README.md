@@ -37,7 +37,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini :
 ### 2. Clone Repositori
 ```bash
 git clone https://github.com/FakhriNabiil/LostFinder.git
-cd LOST-FInder
+cd LostFinder
 ```
 
 ### 3. Jalankan Database & S3 (MiniStack)
