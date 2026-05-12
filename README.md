@@ -1,4 +1,4 @@
-Nama : Muhamad 'Abid Fakhri Nabiil
+Nama : Muhamad 'Abid Fakhri Nabiil  
 NIM  : 32602400022
 
 # 🔍 LostFinder - Katalog Kehilangan
