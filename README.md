@@ -9,7 +9,7 @@ LostFinder adalah aplikasi web modern yang dirancang untuk membantu pengguna men
 
 ## 🚀 Fitur Utama
 
-- **Authentication**: Sistem Registrasi dan Login pengguna.
+- **Authentication**: Sistem Registrasi dan Login pengguna sederhana.
 - **Dashboard Modern**: Katalog poster kehilangan dengan statistik real-time.
 - **Pencarian & Filter**: Cari poster berdasarkan judul/deskripsi atau filter berdasarkan status (Hilang/Ditemukan).
 - **Unggah Gambar**: Dukungan unggah foto asli ke S3 bucket.
