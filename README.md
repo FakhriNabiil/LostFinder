@@ -47,7 +47,7 @@ cd LostFinder
 ### 3. Jalankan Database & S3 (MiniStack)
 Pastikan Docker sudah terinstall, lalu buka terminal di root folder proyek :
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 *Ini akan menjalankan layanan DynamoDB dan S3 di port `4566`.*
 
